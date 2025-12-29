@@ -58,3 +58,6 @@ CMakeUserPresets.json
 # External projects
 *-prefix/
 
+# Cmake exe
+app
+
