@@ -1,0 +1,3 @@
+[submodule "lib/Terminal-Library"]
+	path = lib/Terminal-Library
+	url = git@github.com:K10-K10/Terminal-Library.git
